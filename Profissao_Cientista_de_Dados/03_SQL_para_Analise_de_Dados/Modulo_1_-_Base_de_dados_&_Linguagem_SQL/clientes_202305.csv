@@ -1,0 +1,20 @@
+id;idade;sexo;dependentes;escolaridade;tipo_cartao;limite_credito;valor_transacoes_12m;qtd_transacoes_12m
+768805383;45;M;3;ensino medio;blue;12691.51;1144.90;42
+818770008;49;F;5;mestrado;solteiro;8256.96;1291.45;33
+713982108;51;M;3;mestrado;casado;3418.56;1887.72;20
+713982109;52;M;4;mestrado;casado;3418.57;1887.73;21
+713982110;53;M;5;mestrado;casado;3418.58;1887.74;22
+713982111;54;M;6;ensino medio;casado;3418.59;1887.75;23
+713982112;55;M;7;ensino medio;casado;3418.60;1887.76;24
+713982113;56;M;8;ensino medio;casado;3418.61;1887.77;25
+713982114;57;M;9;ensino medio;casado;3418.62;1887.78;26
+713982115;58;M;10;ensino medio;casado;3418.63;1887.79;27
+713982116;59;M;11;ensino medio;casado;3418.64;1887.80;28
+713982117;60;M;12;ensino medio;casado;3418.65;1887.81;29
+713982118;31;F;13;ensino medio;casado;3418.66;1887.82;30
+713982119;32;F;14;mestrado;solteiro;3418.67;1887.83;31
+713982120;33;F;15;mestrado;solteiro;3418.68;1887.84;32
+713982121;34;F;16;mestrado;solteiro;3418.69;1887.85;33
+713982122;35;F;17;mestrado;solteiro;3418.70;1887.86;34
+713982123;36;F;18;mestrado;solteiro;3418.71;1887.87;35
+713982124;37;F;19;mestrado;solteiro;3418.72;1887.88;36

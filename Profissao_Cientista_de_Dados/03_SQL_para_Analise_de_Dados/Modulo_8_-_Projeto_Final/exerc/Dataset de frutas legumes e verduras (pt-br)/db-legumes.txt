@@ -1,0 +1,17 @@
+Abobrinha; Abóbora; Aipim; Alho; Amaranto; Amêndoa; Amendoim; Amendoim-da-mata; 
+Andu; Arachachá; Arroz; Arroz-selvagem; Aveia; Avelã; Azeitona; Baroa; Batata; 
+Batata-doce; Berdana; Berinjela; Beterraba; Cabotchan; Cará; Cará-do-ar; Cará-moela; 
+Castanha-de-baru; Castanha-de-caju; Castanha-de-macaco; Castanha-do-maranhão; 
+Castanha-do-pará; Castanheiro-do-mato; Caxi; Cebola; Celósia (sementes); Cenoura; 
+Centeio; Cevada; Chalota; Chia; Chichá; Chichá-do-norte; Chuchu; Couve-nabo; 
+Couve-rábano; Cumaru; Dendê; Ervilha; Ervilha-de-pombo; Escorcioneira; Fava; 
+Feijão; Feijão-andu; Feijão-azuki; Feijão-boer; Fruta-pão; Gengibre; Gergelim; 
+Girassol (semente); Gobô; Goya; Grão-de-bico; Grumixama; Guandu; Inajá; Inhame; 
+Jaca verde; Jalapeño; Jicama; Jiló; Kohlrabi; Labaca; Lentilha; Linhaça; 
+Lírio-do-brejo; Macassá; Malagueta; Malte; Mandioca; Mandioquinha; Maxixe; 
+Mendubiguaçu; Milho; Mitsubá; Mogango; Monguba; Moranga; Nabo; Nabo-da-suécia; 
+Nabo-mexicano; Nabo-sueco; Noz; Nozes-da-macadâmia; Oliva; Palmito; Paru; Pau-rei; 
+Pé-de-anta; Pelega; Pepino; Pepino-japonês; Pequi; Pimenta; Pimentão; Pinhão; 
+Pistache; Quiabo; Quinoa; Rabanete; Rábano; Rábano-silvestre; Raiz-forte; Rutabaga; 
+Shissô (sementes); Soja; Sorgo; Taioba (batata); Taro; Tomate; Tomate-cereja; Tonka; 
+Trigo; Tupinambo; Urucum; Vagem; Wasabi; Xixá; Xoconostle; Zizânia; Abóbora

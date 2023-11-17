@@ -1,0 +1,20 @@
+Açafrão; Acelga; Acelga-chinesa; Agave-caribenho; 
+Agrião; Agrião-do-líbano; Aipo; Alcachofra; Alcaparra; Alecrim; Alface; 
+Alfafa (broto); Alfavaca; Alho-poró; Almeirão; Aspargo; Azedinha; 
+Batata-doce (folha); Beldroega; Beldroega-grande; Beldroegão; 
+Berdana (folha); Bertalha; Bertalha-coração; Bredo; Brócolis; Cambuquira; 
+Capeba; Capiçoba; Capuchinha; Caruru; Caruru-manteiga; Catalonha; 
+Cebolinha; Celósia; Chaya; Chicória; Coentro; Comelina; Couve; 
+Couve-de-bruxelas; Couve-de-milão; Couve-de-saboia; Couve-flor; 
+Couve-lombarda; Couve-nabo (folha); Couve-rábano; Couvinha; Dill; 
+Echalota; Embaúba; Endívia; Erva-cidreira; Erva-doce; Erva-luísa; 
+Erva-mate; Escarola; Espinafre; Espinafre-de-okinawa; Estragão; 
+Feijão (broto); Folhas de beterraba; Flor de Abóbora; Funcho; Gergelim (broto); Gobô (folha); Grão-de-bico (broto); 
+Guasca; Hibisco; Hortelã; Inhame (folha); Jasmim-manga; Kohlrabi (folha); 
+Labaca (folha); Lambari-da-horta; Lentilha (broto); Linhaça (broto); Louro; 
+Madressilva; Major-gomes; Manjericão; Manjerona; Maria-gorda; Mostarda; 
+Nabo-da-suécia (folha); Nabo-sueco (folha); Ora-pro-nobis; Orégano; 
+Orelha-de-coelho; Peixinho-da-horta; Palma; Picão; Quina; Radicchio; 
+Repolho; Rúcula; Ruibarbo; Rutabaga (folha); Salsa; Salsão; Sálvia; 
+Serralha; Shissô; Soja (broto); Taioba; Taro (folha); Tingensai; Tomilho; 
+Trapoeraba; Trevo (broto); Trigo (broto); Urtiga; Vinagreira; Wasabi (folha)
